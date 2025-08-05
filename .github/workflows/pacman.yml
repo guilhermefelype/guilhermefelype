@@ -3,10 +3,8 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  # Executa a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  # Permite que você execute manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
@@ -19,16 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Pac-Man Contribution Graph
-        uses: platane/platane-github-action@v1.7.0
+        # A versão foi atualizada para a mais recente e funcional
+        uses: platane/platane-github-action@v1.8.0 # <-- MUDANÇA AQUI
         with:
-          # O token é necessário para a Action acessar seu gráfico de contribuições
-          # e salvar os arquivos no repositório.
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
           user_name: guilhermefelype
-        
-          # Os nomes dos arquivos de saída (deixe como está, pois seu README
-          # já deve estar configurado para procurar por estes nomes)
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
