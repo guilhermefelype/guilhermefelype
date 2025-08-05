@@ -1,114 +1,84 @@
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
+<h3 align="center">I'm Guilherme Felype — a Machine/Deep Learning Engineer shaping intelligent systems with code ⚙️🧠</h3>
+
+<p align="center">
+  Passionate about building real-world AI solutions, I specialize in designing, training, and deploying neural networks that solve high-impact problems. I believe the future belongs to those who can teach machines to learn.
+</p>
+
+###
+
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQEApDrpx6DiIA/profile-displaybackgroundimage-shrink_350_1400/0/1715222028508?e=1721865600&v=beta&t=79SBez-5BR4AFF5n0NOI3eWIavxn1cNZmYbgzEgqddM"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
 ###
 
-<h2 align="center">🙋🏻 About Me 🙋🏻</h2>
-
-###
-
-<h3 align="center">I'm a passionate software developer with over a year's experience in programming, using languages such as C#, Python, Go, Java, Kotlin, among others. I'm currently studying to become an even more capable problem-solving developer. I am committed to creating and optimizing interactive and efficient applications. If necessary, I can easily learn new technologies.</h3>
-
-###
-
-<h2 align="center">🌐 Social 🌐</h2>
-
-###
-
 <div align="center">
+  <a href="https://github.com/guilhermefelype" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-guilhermefelype-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/guilhermefelype/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/guilherme_felype9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/343462284477202443" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/5584994526111" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="68" height="50" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:guilhermefelype9@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="50" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Felype-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
-###
-
-<h2 align="center">🎯 Tecnology Stack 🎯</h2>
 
 ###
+
+<h3 align="center">🚀 What I Do</h3>
+
+<ul>
+  <li>🧠 Design and train deep learning models with <strong>TensorFlow</strong> and <strong>PyTorch</strong></li>
+  <li>📊 Analyze and visualize data using <strong>pandas</strong>, <strong>NumPy</strong>, <strong>matplotlib</strong>, and <strong>seaborn</strong></li>
+  <li>🔬 Create reproducible research in <strong>Jupyter Notebooks</strong> and <strong>Google Colab</strong></li>
+  <li>🛠️ Build real AI projects in areas like <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>Predictive Modeling</strong></li>
+  <li>📦 Develop scalable ML systems from prototype to deployment</li>
+</ul>
+
+###
+
+<h3 align="center">📈 GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dot-net logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img src="https://streak-stats.demolab.com?user=guilhermefelype&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermefelype&theme=gruvbox&no-frame=true&no-bg=true&margin-w=12&rank=SSS,SS,S,AAA,AA,A,B,C" height="150" alt="trophy graph" />
 </div>
 
 ###
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<h3 align="center">🕹️ Fun Side of Me</h3>
+
+<p align="center">
+  I love breaking down complex systems and teaching machines how to learn from the world around them. Whether it's predicting trends, generating insights, or exploring new frontiers in AI — I code to innovate.
+</p>
+
+<p align="center"><em>"Intelligence is not created — it's trained."</em></p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermefelype&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermefelype&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=guilhermefelype&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-
-<h2 align="center">🔥 My Contribution 🔥</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/guilhermefelype/guilhermefelype/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermefelype/guilhermefelype/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermefelype/guilhermefelype/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/guilhermefelype/guilhermefelype/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
