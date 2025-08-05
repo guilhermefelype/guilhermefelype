@@ -1,27 +1,27 @@
-# .github/workflows/pacman.yml
-
-name: Generate Pac-Man Contribution Graph
+name: Generate PacMan Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" # todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: Generate Pac-Man Contribution Images
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pac-Man Contribution Graph
-        # A versão foi atualizada para a mais recente e funcional
-        uses: platane/platane-github-action@v1.8.0 # <-- MUDANÇA AQUI
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: guilhermefelype
+          github_user_name: guilhermefelype
           outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
+            ./output/pacman-contribution-graph.svg?palette=github-light&color_snake=#8b5cf6
+            ./output/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#8b5cf6
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "update contribution graph" || echo "no changes"
+          git push
