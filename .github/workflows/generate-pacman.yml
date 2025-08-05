@@ -1,0 +1,35 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: guilyx/pacman-contrib-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          output_path: output/pacman-contribution-graph-dark.svg
+
+      - name: Generate Light Theme Graph
+        uses: guilyx/pacman-contrib-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: light
+          output_path: output/pacman-contribution-graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
+          git push
