@@ -59,7 +59,7 @@
 <h3 align="center">📈 GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermefelype&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=guilhermefelype&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=guilhermefelype&theme=gruvbox&no-frame=true&no-bg=true&margin-w=12&rank=SSS,SS,S,AAA,AA,A,B,C" height="150" alt="trophy graph" />
 </div>
 
